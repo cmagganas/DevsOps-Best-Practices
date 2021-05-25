@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/cmagganas/DevsOps-Best-Practices/actions/workflows/main.yml/badge.svg)](https://github.com/cmagganas/DevsOps-Best-Practices/actions/workflows/main.yml)
+
 # DevsOps-Best-Practices
 This is an example of a DevOps Repo that conforms to best practices
 
